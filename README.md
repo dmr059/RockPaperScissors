@@ -12,5 +12,5 @@ The project demonstrates:
 ## Future Enchancements:
 
  - Add ASCII art for each move
- - Let player choose the amound of rounds to play
+ - Let player choose the amount of rounds to play
  - Implement replay functionality 
