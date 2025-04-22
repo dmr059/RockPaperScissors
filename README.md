@@ -9,8 +9,8 @@ The project demonstrates:
 - An "AI" opponent
 - Scoring system over multiple rounds
 
-  ## Future Enchancements:
+## Future Enchancements:
 
-  - Add ASCII art for each move
-  - Let player choose the amound of rounds to play
-  - Implement replay functionality 
+ - Add ASCII art for each move
+ - Let player choose the amound of rounds to play
+ - Implement replay functionality 
