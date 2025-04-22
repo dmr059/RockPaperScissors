@@ -1,15 +1,3 @@
-/*
-
-	Purpose:
-	
-		>>> 3rd Edition of Rock, Paper, Scissors game		
-				
-	Focus:
-	
-		>>> Compartmentalize aspects of program for better readability and functionality
-				
-*/
-
 #include <iostream>
 //Holds the ability to seed random with time
 #include <ctime>
