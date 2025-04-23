@@ -1,6 +1,6 @@
 ## Rock Paper Scissors
 
-This is an interactive, console-based based version of the classic Rock, Paper, Scissors game. You'll go head-to-head against a computer opponent in a 5-round showdown!
+This is an interactive, console-based version of the classic Rock, Paper, Scissors game. You'll go head-to-head against a computer opponent in a 5-round showdown!
 
 The project demonstrates:
 
